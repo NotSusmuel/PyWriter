@@ -6,5 +6,5 @@
 
 ## Use this tool to automate ✨ Typewriter ✨
 
-## Launch `schreibtrainer(start).bat` to run.**
-## Launch `custom_lesson.bat` to run a custom lesson (if youre logged in, you have 30 seconds to select a lesson of your choice).**
+## Launch `schreibtrainer(start).bat` to run.
+## Launch `custom_lesson.bat` to run a custom lesson (if youre logged in, you have 30 seconds to select a lesson of your choice).
