@@ -2,7 +2,7 @@
 ## **Attention**: You need 🟢Python for this program to run!
 # Version: `1.0.2`
 
-# Original Version by Flo781
+# Original Version by Flo781 (https://github.com/Flo781)
 
 ## Use this tool to automate ✨ Typewriter ✨
 
