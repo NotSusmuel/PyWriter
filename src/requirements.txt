@@ -1,0 +1,5 @@
+pynput
+pwinput
+colorama
+rich
+selenium
